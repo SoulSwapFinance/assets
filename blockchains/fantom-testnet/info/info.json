@@ -1,0 +1,14 @@
+{
+    "name": "Fantom-Testnet",
+    "website": "https://fantom.foundation",
+    "short_description": "Open source platform to write and distribute decentralized applications.",
+    "description": "Open source platform to write and distribute decentralized applications.",
+    "socials": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/FantomFDN",
+        "handle": "FantomFDN"
+      }
+    ],
+    "explorer": "https://testnet.fantom.com"
+  }
