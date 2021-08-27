@@ -1,1 +1,5 @@
-info
+{
+    "name": "SoulPower",
+    "ticker": "SOUL",
+    "explorer": "ftmscan.com/0xe2fb177009ff39f52c0134e8007fa0e4baacbd07"
+}
