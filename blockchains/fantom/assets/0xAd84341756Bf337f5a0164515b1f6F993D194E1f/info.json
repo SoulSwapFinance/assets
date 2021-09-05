@@ -1,2 +1,5 @@
-{
+	{
+    "name": "Fantom USD",
+    "ticker": "fUSD",
+    "explorer": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f"
 }
